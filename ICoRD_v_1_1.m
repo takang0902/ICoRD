@@ -6,7 +6,7 @@ clc
 
 % Initial parameters 
 Saving_name="Final_result_name";
-NN=2;              % The number of iterations. it depends on SNR of target neuron
+NN=10;              % The number of iterations. it depends on SNR of target neuron
 Fs=10;                % Sampling frequency
 tau_d = 0.550;     % decaying tau
 tau_r = 0.179;       % rising tau
