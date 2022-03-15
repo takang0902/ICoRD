@@ -16,8 +16,7 @@ Citation
 If you use this code please cite the corresponding paper where original method appeared (see References below), as well as:
 [1] Kang, Seongtak, et al. "ICoRD: Iterative Correlation-Based ROI Detection Method for the Extraction of Neural Signals in Calcium Imaging." bioRxiv (2021).
 
-Cite the code: 
-[![DOI](https://zenodo.org/badge/442372040.svg)](https://zenodo.org/badge/latestdoi/442372040)
+Cite the code: https://zenodo.org/badge/latestdoi/442372040
 
 Related package
 =======
