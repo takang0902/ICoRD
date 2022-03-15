@@ -453,15 +453,15 @@ Iter_spikes(:,N)=im.Espikes;
             end
                  mean_temp(N)=mean(reassigned_estimated_SNR_temp);
 
-         %% Criteria for stopping iteration
-         if Early_stop==true
-                     if N>window_size 
-                           if mean_temp(N-1)>mean_temp(N)
-                               NN=N;
-                               break;
-                           end
-                     end
-         end
+%          %% Criteria for stopping iteration
+%          if Early_stop==true
+%                      if N>window_size 
+%                            if mean_temp(N-1)>mean_temp(N)
+%                                NN=N;
+%                                break;
+%                            end
+%                      end
+%          end
     end
 end
 
